@@ -1,0 +1,14 @@
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.AssemblyInfoInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.AssemblyInfo.cs
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.csproj.CoreCompileInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\bin\Debug\net8.0\GestionEntreprise.exe
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\bin\Debug\net8.0\GestionEntreprise.deps.json
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\bin\Debug\net8.0\GestionEntreprise.runtimeconfig.json
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\bin\Debug\net8.0\GestionEntreprise.dll
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\bin\Debug\net8.0\GestionEntreprise.pdb
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.dll
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\refint\GestionEntreprise.dll
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.pdb
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\GestionEntreprise.genruntimeconfig.cache
+D:\Projet\projet C#\etudeClasse\GestionEntreprise\obj\Debug\net8.0\ref\GestionEntreprise.dll

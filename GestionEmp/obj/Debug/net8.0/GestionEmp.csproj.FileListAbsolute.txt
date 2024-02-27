@@ -1,0 +1,14 @@
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.AssemblyInfoInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.AssemblyInfo.cs
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.csproj.CoreCompileInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEmp\bin\Debug\net8.0\GestionEmp.exe
+D:\Projet\projet C#\etudeClasse\GestionEmp\bin\Debug\net8.0\GestionEmp.deps.json
+D:\Projet\projet C#\etudeClasse\GestionEmp\bin\Debug\net8.0\GestionEmp.runtimeconfig.json
+D:\Projet\projet C#\etudeClasse\GestionEmp\bin\Debug\net8.0\GestionEmp.dll
+D:\Projet\projet C#\etudeClasse\GestionEmp\bin\Debug\net8.0\GestionEmp.pdb
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.dll
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\refint\GestionEmp.dll
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.pdb
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\GestionEmp.genruntimeconfig.cache
+D:\Projet\projet C#\etudeClasse\GestionEmp\obj\Debug\net8.0\ref\GestionEmp.dll

@@ -1,0 +1,14 @@
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.AssemblyInfoInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.AssemblyInfo.cs
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.csproj.CoreCompileInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionBiblio\bin\Debug\net8.0\GestionBiblio.exe
+D:\Projet\projet C#\etudeClasse\GestionBiblio\bin\Debug\net8.0\GestionBiblio.deps.json
+D:\Projet\projet C#\etudeClasse\GestionBiblio\bin\Debug\net8.0\GestionBiblio.runtimeconfig.json
+D:\Projet\projet C#\etudeClasse\GestionBiblio\bin\Debug\net8.0\GestionBiblio.dll
+D:\Projet\projet C#\etudeClasse\GestionBiblio\bin\Debug\net8.0\GestionBiblio.pdb
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.dll
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\refint\GestionBiblio.dll
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.pdb
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\GestionBiblio.genruntimeconfig.cache
+D:\Projet\projet C#\etudeClasse\GestionBiblio\obj\Debug\net8.0\ref\GestionBiblio.dll

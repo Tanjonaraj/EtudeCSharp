@@ -1,0 +1,14 @@
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.AssemblyInfoInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.AssemblyInfo.cs
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.csproj.CoreCompileInputs.cache
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\bin\Debug\net8.0\GestionEcolePOO.exe
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\bin\Debug\net8.0\GestionEcolePOO.deps.json
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\bin\Debug\net8.0\GestionEcolePOO.runtimeconfig.json
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\bin\Debug\net8.0\GestionEcolePOO.dll
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\bin\Debug\net8.0\GestionEcolePOO.pdb
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.dll
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\refint\GestionEcolePOO.dll
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.pdb
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\GestionEcolePOO.genruntimeconfig.cache
+D:\Projet\projet C#\etudeClasse\GestionEcolePOO\obj\Debug\net8.0\ref\GestionEcolePOO.dll
